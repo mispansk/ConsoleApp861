@@ -9,6 +9,6 @@ namespace ConsoleApp861
     /// </summary>
     static class Constants
     {
-        static readonly public TimeSpan IntervalMinutes = TimeSpan.FromMinutes(30); 
+        static readonly public TimeSpan IntervalMinutes = TimeSpan.FromMinutes(10);
     }
 }
